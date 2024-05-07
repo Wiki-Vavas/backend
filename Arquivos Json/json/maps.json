@@ -8,8 +8,8 @@
             "listview":"../photo/maps/sunset_listview.png",
             "splash":"../photo/maps/sunset_splash.png"
         },
-        "local":"Estados Unidos",
-        "historinha":"Um desastre em uma instalação da Kingdom ameaça engolir toda a vizinhança. Dê um pulo no seu food truck favorito e depois lute por toda a cidade neste mapa três rotas."
+        "local":"United States of America",
+        "historinha":"A disaster at a local kingdom facility threatens to engulf the whole neighborhood. Stop at your favorite food truck then fight across the city in this traditional three lane map."
     },
 
     {
@@ -21,7 +21,7 @@
             "splash":"../photo/maps/lotus_splash.png"
         },
         "local":"India",
-        "historinha":"Uma estrutura misteriosa com um conduíte astral irradia poder ancestral. Grandes portas de pedra oferecem várias oportunidades de movimentação e revelam caminhos para três locais enigmáticos."
+        "historinha":"A mysterious structure housing an astral conduit radiates with ancient power. Great stone doors provide a variety of movement opportunities and unlock the paths to three mysterious sites."
     },
 
     {
@@ -33,7 +33,7 @@
             "splash":"../photo/maps/pearl_splash.png"
         },
         "local":"Portugal",
-        "historinha":"Atacantes avançam em direção aos Defensores neste vibrante mapa subaquático com dois pontos principais. Pearl é um mapa sem mecânicas focado no ambiente. Encare a batalha em um Meio compacto ou em áreas mais alongadas no nosso primeiro mapa situado na Terra Ômega."
+        "historinha":"Attackers push down into the Defenders on this two-site map set in a vibrant, underwater city. Pearl is a geo-driven map with no mechanics. Take the fight through a compact mid or the longer range wings in our first map set in Omega Earth."
     },
 
     {
@@ -44,8 +44,8 @@
             "listview":"../photo/maps/fracture_listview.png",
             "splash":"../photo/maps/fracture_splash.png"
         },
-        "local":"Estados Unidos",
-        "historinha":"Um local de pesquisas altamente confidencial partido ao meio por um experimento com Radianita malsucedido. Com opções tão divididas quanto o próprio mapa para os defensores, a escolha é sua: encare os atacantes na própria base deles ou prepare o terreno para um ataque iminente."
+        "local":"United States of America",
+        "historinha":"A top secret research facility split apart by a failed radianite experiment. With defender options as divided as the map, the choice is yours: meet the attackers on their own turf or batten down the hatches to weather the assault."
     },
 
     {
@@ -56,8 +56,8 @@
             "listview":"../photo/maps/breeze_listview.png",
             "splash":"../photo/maps/breeze_splash.png"
         },
-        "local":"Triângulo das Bermudas",
-        "historinha":"Conheça as ruínas históricas ou visite as grutas deste paraíso tropical. Mas é bom se cobrir, pois temos espaços muito abertos e embates de longa distância. Cuide dos seus flancos e você poderá curtir a brisa do Breeze."
+        "local":"Bermuda Triangle",
+        "historinha":"Take in the sights of historic ruins or seaside caves on this tropical paradise. But bring some cover. You'll need them for the wide open spaces and long range engagements. Watch your flanks and this will be a Breeze."
     },
 
     {
@@ -69,7 +69,7 @@
             "splash":"../photo/maps/icebox_splash.png"
         },
         "local":"Russia",
-        "historinha":"Seu próximo campo de batalha será uma área de escavação secreta da Kingdom retomada pela força do Ártico. Você precisará ter cuidado com os terrenos horizontais dos dois pontos principais, que são protegidos por neve e metal. Aproveite para usar as tirolesas, e seus inimigos nunca verão seu ataque iminente."
+        "historinha":"Your next battleground is a secret Kingdom excavation site overtaken by the arctic. The two plant sites protected by snow and metal require some horizontal finesse. Take advantage of the ziplines and they'll never see you coming."
     },
 
     {
@@ -80,8 +80,8 @@
             "listview":"../photo/maps/bind_listview.png",
             "splash":"../photo/maps/bind_splash.png"
         },
-        "local":"Marrocos",
-        "historinha":"Dois pontos. Nenhuma área no meio. Você precisa escolher: direita ou esquerda? E aí, qual vai ser? Ambos os lados oferecem caminhos diretos para os atacantes, e dois teleportadores de sentido único facilitam o flanqueamento."
+        "local":"Morocco",
+        "historinha":"Two sites. No middle. Gotta pick left or right. What's it going to be then? Both offer direct paths for attackers and a pair of one-way teleporters make it easier to flank."
     },
 
     {
@@ -92,8 +92,8 @@
             "listview":"../photo/maps/haven_listview.png",
             "splash":"../photo/maps/haven_splash.png"
         },
-        "local":"Butão",
-        "historinha":"Sob um mosteiro abandonado, é possível ouvir agentes se enfrentando pelo controle de três pontos distintos. Neste mapa, há mais áreas para controlar. Em compensação, os defensores também conseguem aproveitar o território extra para coordenar investidas mais agressivas."
+        "local":"Bhutan",
+        "historinha":"Beneath a forgotten monastery, a clamour emerges from rival Agents clashing to control three sites. There's more territory to control, but defenders can use the extra real estate for aggressive pushes."
     },
 
     {
@@ -104,8 +104,8 @@
             "listview":"../photo/maps/split_listview.png",
             "splash":"../photo/maps/split_splash.png"
         },
-        "local":"Japão",
-        "historinha":"Se quiser avançar, é preciso subir. Separados por uma área central elevada, dois pontos fornecem movimentação rápida com duas cordas ascendentes. Cada ponto tem uma torre imponente que é vital para o controle da área. E não se esqueça: mantenha os olhos abertos e focados nas áreas elevadas antes que tudo vá pelos ares."
+        "local":"Japan",
+        "historinha":"If you want to go far, you'll have to go up. A pair of sites split by an elevated center allows for rapid movement using two rope ascenders. Each site is built with a looming tower vital for control. Remember to watch above before it all blows sky-high."
     },
 
     {
@@ -116,8 +116,8 @@
             "listview":"../photo/maps/ascent_listview.png",
             "splash":"../photo/maps/ascent_splash.png"
         },
-        "local":"Italia",
-        "historinha":"Com várias opções de posicionamento e conflito, um território aberto divide duas áreas em Ascent. Cada uma pode ser fortificada por portas explosivas irreversíveis que, quando derrubadas, forçam as equipes a destruí-las ou a acharem outra maneira de prosseguir. Não deixe que o inimigo tome o seu território."
+        "local":"Italy",
+        "historinha":"An open playground for small wars of position and attrition divide two sites on Ascent. Each site can be fortified by irreversible bomb doors; once they're down, you'll have to destroy them or find another way. Yield as little territory as possible."
     },
 
     {
@@ -128,7 +128,7 @@
             "listview":"../photo/maps/drift_listview.png",
             "splash":"../photo/maps/drift_splash.png"
         },
-        "local":"Tailândia",
+        "local":"Thailand",
         "historinha":"none."
     },
 
@@ -140,7 +140,7 @@
             "listview":"../photo/maps/kasbah_listview.png",
             "splash":"../photo/maps/kasbah_splash.png"
         },
-        "local":"Marrocos",
+        "local":"Morocco",
         "historinha":"none."
     },
 
@@ -152,7 +152,7 @@
             "listview":"../photo/maps/piazza_listview.png",
             "splash":"../photo/maps/piazza_splash.png"
         },
-        "local":"Italia",
+        "local":"Italy",
         "historinha":"none."
     },
 
@@ -164,7 +164,7 @@
             "listview":"../photo/maps/range_listview.png",
             "splash":"../photo/maps/range_splash.png"
         },
-        "local":"Italia",
+        "local":"Italy",
         "historinha":"none."
     }
 

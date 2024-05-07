@@ -1,29 +1,29 @@
 [
     {
         "id":1,
-        "titulo":"VOCÊ É A DIFERENÇA // ESTREIA DO EPISÓDIO 8: ATO III - VALORANT",
+        "titulo":"YOU DIFF // EPISODE 8: ACT III KICKOFF - VALORANT",
         "foto":"../photo/news/news_1.png",
-        "data":"30/04/24",
-        "breve_descricao":"Contrarie as expectativas e prove que, no EPISÓDIO 08 // ATO III, quem faz a diferença é VOCÊ.",
-        "link":"https://www.youtube.com/watch?v=QCYYIQpgYNM"
+        "data":"04/30/24",
+        "breve_descricao":"Defy expectations and prove that in EPISODE 08 // ACT III the difference is YOU.",
+        "link":"https://www.youtube.com/watch?v=EiVF6QsAijo"
     },
 
     {
         "id":2,
-        "titulo":"NOTAS DA ATUALIZAÇÃO 8.08 DO VALORANT",
+        "titulo":"VALORANT PATCH NOTES 8.08",
         "foto":"../photo/news/news_2.png",
-        "data":"30/04/24",
-        "breve_descricao":"Viper e Cypher rimam, né?",
-        "link":"https://playvalorant.com/pt-br/news/game-updates/notas-da-atualizacao-8-08-do-valorant/"
+        "data":"04/30/24",
+        "breve_descricao":"Viper and Cypher kinda rhyme, no?",
+        "link":"https://playvalorant.com/en-us/news/game-updates/valorant-patch-notes-8-08/"
     },
     
     {
         "id":3,
-        "titulo":"TORNEIOS DE COMUNIDADE - 26/04 À 02/05",
+        "titulo":"PREMIER: PROMOTION AND CONNECTING TO PRO PLAY",
         "foto":"../photo/news/news_3.png",
-        "data":"25/04/24",
-        "breve_descricao":"Participe dos torneios criados pela própria comunidade.",
-        "link":"https://playvalorant.com/pt-br/news/community/torneios-de-comunidade-26-04-a-02-05/"
+        "data":"04/24/24",
+        "breve_descricao":"Need more info on how you can get one step closer to playing in the VCT? You’ve come to the right place.",
+        "link":"https://playvalorant.com/en-us/news/game-updates/premier-promotion-and-connecting-to-pro-play/"
     }
 ]
 

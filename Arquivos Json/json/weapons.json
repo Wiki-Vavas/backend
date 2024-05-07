@@ -5,8 +5,8 @@
         "nome":"Classic",
         "preco":0,
         "foto":"../photo/weapons/classic.png",
-        "descricao":"Seu modo primário faz disparos precisos quando o jogador está parado. Além disso, ela vem equipada com um modo alternativo de rajadas para combates de curta distância.",
-        "tipo":"Arma leve"
+        "descricao":"Primary fire lands precise shots when still, and is equipped with an alternate burst-firing mode for close encounters.",
+        "tipo":"SIDEARMS"
     },
 
     {
@@ -14,8 +14,8 @@
         "nome":"Shorty",
         "preco":150,
         "foto":"../photo/weapons/shorty.png",
-        "descricao":"Uma escopeta rápida de cano curto e altamente letal a curta distância, mas que dispara apenas dois tiros antes de precisar recarregar. Combina bem com armas de longa distância.",
-        "tipo":"Arma leve"
+        "descricao":"A nimble, short barrel shotgun that is deadly at close range but can only fire twice before needing to reload. Pairs well with long range weapons.",
+        "tipo":"SIDEARMS"
     },    
     
     {
@@ -23,17 +23,17 @@
         "nome":"Frenzy",
         "preco":450,
         "foto":"../photo/weapons/frenzy.png",
-        "descricao":"Frenzy é uma metralhadora de mão leve e excelente para usar em movimento. Sua alta cadência de tiro pode ser difícil de controlar, então tente disparar rajadas curtas a distâncias intermediárias.",
-        "tipo":"Arma leve"
+        "descricao":"Lightweight machine pistol that excels at firing on the move. Its high rate-of-fire can be difficult to control, so try short bursts at medium ranges.",
+        "tipo":"SIDEARMS"
     },
 
     {
         "id":4,
-        "nome":"ghost",
+        "nome":"Ghost",
         "preco":500,
         "foto":"../photo/weapons/ghost.png",
-        "descricao":"Ghost é uma arma precisa que conta com um grande carregador, o que ajuda a compensar qualquer erro seu. Para acertar alvos distantes, é preciso manter a cadência de tiro controlada. E para acertar alvos de perto, pode sentar o dedo no gatilho.",
-        "tipo":"Arma leve"
+        "descricao":"The Ghost is accurate and carries a large magazine if you miss. Distant targets require a controlled fire rate. Quickly tap the trigger when you can see the whites of their eyes.",
+        "tipo":"SIDEARMS"
     },
 
     {
@@ -41,8 +41,8 @@
         "nome":"Sheriff",
         "preco":800,
         "foto":"../photo/weapons/sheriff.png",
-        "descricao":"Seus projéteis de alto impacto provocam bastante recuo, então é preciso ter pulso firme. Quando você domina esta arma, seus inimigos logo percebem que nunca tiveram chance.",
-        "tipo":"Arma leve"
+        "descricao":"Its high-impact rounds pack a ton of recoil and require true grit to master. Wield the Sheriff right, and your enemies will know they were expendable.",
+        "tipo":"SIDEARMS"
     },
 
     {
@@ -50,8 +50,8 @@
         "nome":"Stinger",
         "preco":950,
         "foto":"../photo/weapons/stinger.png",
-        "descricao":"Esta submetralhadora tem mais potência a médias e longas distâncias, à custa da cadência de tiro e mobilidade. Seu carregador de 20 projéteis é contrabalançado por sprays que provocam bastante recuo. Em compensação, esta arma dispara tiros letais a distâncias intermediárias com a ajuda da mira e de fogo controlado.",
-        "tipo":"Submetralhadora"
+        "descricao":"This SMG is more potent at medium to long range than its counterparts, but at the cost of firing rate and mobility. The 20-round mag gets wasted in recoil-filled sprays, but lands lethal blows at medium distances with ADS and controlled fire.",
+        "tipo":"SMGS"
     },
 
     {
@@ -59,8 +59,8 @@
         "nome":"Spectre",
         "preco":1600,
         "foto":"../photo/weapons/spectre.png",
-        "descricao":"Spectre é uma arma faz-tudo com ótimo equilíbrio entre dano, cadência de tiro e precisão - tudo isso a distâncias curtas e intermediárias. Ela assombra as esquinas de todo mapa e requer apenas uma mira estável para acabar com os inimigos a longa distância.",
-        "tipo":"Submetralhadora"
+        "descricao":"A jack-of-all-trades weapon with a great balance of damage, fire rate, and accuracy—at both short and mid range. It haunts the corners of every map and requires only steady aim to drop foes at long distance.",
+        "tipo":"SMGS"
     },
 
     {
@@ -68,8 +68,8 @@
         "nome":"Bulldog",
         "preco":2050,
         "foto":"../photo/weapons/bulldog.png",
-        "descricao":"Este fuzil pode se tornar uma verdadeira máquina mortífera. Seu modo secundário permite que o atirador use a mira e descarregue rajadas curtas e precisas em qualquer um que se aproximar a distâncias intermediárias a longas.",
-        "tipo":"Fuzil"
+        "descricao":"A surefire beast when you can pick your shots. Alt. fire lets you ADS and spew accurate, short bursts at anyone who tries you from medium to long-range.",
+        "tipo":"RIFLES"
     },
 
     {
@@ -77,8 +77,8 @@
         "nome":"Guardian",
         "preco":2250,
         "foto":"../photo/weapons/guardian.png",
-        "descricao":"Por ser um fuzil estilo DMR, Guardian é mais pesado e oferece menos mobilidade do que outros fuzis, mas seus disparos são precisos e poderosos. Saia caçando inimigos a distâncias longas e intermediárias.",
-        "tipo":"Fuzil"
+        "descricao":"The designated marksman rifle. Heavier and less mobile relative to other rifles but precise and powerful. Headhunt when enemies appear at medium to long distances.",
+        "tipo":"RIFLES"
     },
 
     {
@@ -86,8 +86,8 @@
         "nome":"Phantom",
         "preco":2900,
         "foto":"../photo/weapons/phantom.png",
-        "descricao":"Aproveite a automação desta arma para atingir qualquer um que tente se aproximar. Lance rajadas curtas e controladas para dispersar inimigos em qualquer lugar. Phantom tem um desempenho melhor quando o atirador está parado.",
-        "tipo":"Fuzil"
+        "descricao":"Go full auto for anyone who tests you up close and short controlled bursts scramble enemies from anywhere. Best when fired while stationary.",
+        "tipo":"RIFLES"
     },
 
     {
@@ -95,8 +95,8 @@
         "nome":"Vandal",
         "preco":2900,
         "foto":"../photo/weapons/vandal.png",
-        "descricao":"Em compensação, se disparar por muito tempo, sua estabilidade é prejudicada. Vandal concede bastante dano a longa distância e recompensa aqueles que focam em um único tiro certeiro na cabeça do alvo.",
-        "tipo":"Fuzil"
+        "descricao":"The Vandal retains high damage over distance and rewards those who focus single shots at a target's head. Extended fire results in less stability, however.",
+        "tipo":"RIFLES"
     },
 
     {
@@ -104,8 +104,8 @@
         "nome":"Bucky",
         "preco":850,
         "foto":"../photo/weapons/bucky.png",
-        "descricao":"Pesada, porém estável, Bucky tem um modo primário que serve para segurar avanços em esquinas acirradas ou ajudar na investida em áreas pequenas.",
-        "tipo":"Escopeta"
+        "descricao":"Heavy but stable, Bucky's primary fire is for holding tight corners or charging close quarters. Alternate fire strikes targets at medium range.",
+        "tipo":"SHOTGUNS"
     },
 
     {
@@ -113,8 +113,8 @@
         "nome":"Judge",
         "preco":1850,
         "foto":"../photo/weapons/judge.png",
-        "descricao":"Ela é estável com seus tiros normais, mas se torna volátil em disparos rápidos. Seu modo primário acaba com os alvos a curta distância, mas você precisará de uma mira estável para acertar qualquer coisa que esteja além do alcance do seu braço.",
-        "tipo":"Escopeta"
+        "descricao":"The Judge is stable at the stand but volatile when fired rapidly. Primary fire hammers short range targets and you'll need to be steady to nail anything beyond an arm's-length.",
+        "tipo":"SHOTGUNS"
     },
 
     {
@@ -122,8 +122,8 @@
         "nome":"Marshal",
         "preco":950,
         "foto":"../photo/weapons/marshal.png",
-        "descricao":"Marshal é um fuzil de precisão ágil e de zoom único que consegue manter longe aqueles inimigos insistentes. Devido à cadência mais lenta, você precisará acertar seus disparos ou ficará vulnerável a ataques.",
-        "tipo":"Fuzil de precisão"
+        "descricao":"A nimble lever-action sniper rifle with a single zoom that can keep bullish enemies at bay. A slow rate of fire means you have to either hit the mark or leave yourself open to attacks.",
+        "tipo":"SNIPERS"
     },
 
     {
@@ -131,8 +131,8 @@
         "nome":"Operator",
         "preco":4700,
         "foto":"../photo/weapons/operator.png",
-        "descricao":"Operator é um fuzil de precisão intenso com zoom duplo altamente eficiente. Esta arma tem um desempenho péssimo em movimento, mas dispara projéteis absurdamente poderosos que podem devastar uma equipe inteira com um só tiro.",
-        "tipo":"Fuzil de precisão"
+        "descricao":"A fierce bolt-action sniper rifle with high-powered dual zoom. Extremely immobile but fires an incredibly powerful round that can devastate a team with one shot.",
+        "tipo":"SNIPERS"
     },
 
     {
@@ -140,8 +140,8 @@
         "nome":"Ares",
         "preco":1600,
         "foto":"../photo/weapons/ares.png",
-        "descricao":"Ares conta com um carregador enorme e se destaca em fogo de supressão ou causando muito dano a grupos concentrados de inimigos.",
-        "tipo":"Metralhadora"
+        "descricao":"The Ares' large magazine means it excels at suppressive fire or dealing heavy damage to clustered groups.",
+        "tipo":"HEAVIES"
     },
 
     {
@@ -149,17 +149,26 @@
         "nome":"Odin",
         "preco":3200,
         "foto":"../photo/weapons/odin.png",
-        "descricao":"Odin conta com disparos que causam bastante dano e anulam ataques com uma estabilidade surpreendente. Use sprays contra inimigos a curta distância e troque para o modo secundário para se tornar uma torreta ambulante.",
-        "tipo":"Metralhadora"
+        "descricao":"Suppressive, high damage fire with surprising stability. Spray enemies at short range and use alt. fire to make yourself a living turret.",
+        "tipo":"HEAVIES"
     },
 
     {
         "id":18,
-        "nome":"Faca tática",
+        "nome":"TACTICAL KNIFE",
         "preco":0,
         "foto":"../photo/weapons/faca.png",
-        "descricao":"Quando você ficar sem balas ou estiver em dúvida sobre o que fazer, dê uma facada no adversário. Com esta faca, você poderá correr mais rápido, destruir objetos mais depressa e acertar seus inimigos de uma vez só bem nas costas com o modo secundário.",
-        "tipo":"Confronto"
+        "descricao":"When in doubt or out of bullets, hit them with this. Lets you run fast, destroy objects faster, or one-shot enemies in the back with alt. fire.",
+        "tipo":"MELEE"
+    },
+
+    {
+        "id":19,
+        "nome":"OUTLAW",
+        "preco":2400,
+        "foto":"../photo/weapons/outlaw.png",
+        "descricao":"A highly-lethal, mid-range Sniper rifle that can fire two shots before scoping out. The long reload time can put you in a pinch, so pick your shots carefully.",
+        "tipo":"SNIPERS"
     }
 
 ]
