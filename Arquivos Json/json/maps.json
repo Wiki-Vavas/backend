@@ -1,0 +1,171 @@
+[
+
+    {
+        "id":1,
+        "nome":"Sunset",
+        "foto":{
+            "map":"../photo/maps/sunset.png",
+            "listview":"../photo/maps/sunset_listview.png",
+            "splash":"../photo/maps/sunset_splash.png"
+        },
+        "local":"Estados Unidos",
+        "historinha":"Um desastre em uma instalação da Kingdom ameaça engolir toda a vizinhança. Dê um pulo no seu food truck favorito e depois lute por toda a cidade neste mapa três rotas."
+    },
+
+    {
+        "id":2,
+        "nome":"Lotus",
+        "foto":{
+            "map":"../photo/maps/lotus.png",
+            "listview":"../photo/maps/lotus_listview.png",
+            "splash":"../photo/maps/lotus_splash.png"
+        },
+        "local":"India",
+        "historinha":"Uma estrutura misteriosa com um conduíte astral irradia poder ancestral. Grandes portas de pedra oferecem várias oportunidades de movimentação e revelam caminhos para três locais enigmáticos."
+    },
+
+    {
+        "id":3,
+        "nome":"Pearl",
+        "foto":{
+            "map":"../photo/maps/pearl.png",
+            "listview":"../photo/maps/pearl_listview.png",
+            "splash":"../photo/maps/pearl_splash.png"
+        },
+        "local":"Portugal",
+        "historinha":"Atacantes avançam em direção aos Defensores neste vibrante mapa subaquático com dois pontos principais. Pearl é um mapa sem mecânicas focado no ambiente. Encare a batalha em um Meio compacto ou em áreas mais alongadas no nosso primeiro mapa situado na Terra Ômega."
+    },
+
+    {
+        "id":4,
+        "nome":"Fracture",
+        "foto":{
+            "map":"../photo/maps/fracture.png",
+            "listview":"../photo/maps/fracture_listview.png",
+            "splash":"../photo/maps/fracture_splash.png"
+        },
+        "local":"Estados Unidos",
+        "historinha":"Um local de pesquisas altamente confidencial partido ao meio por um experimento com Radianita malsucedido. Com opções tão divididas quanto o próprio mapa para os defensores, a escolha é sua: encare os atacantes na própria base deles ou prepare o terreno para um ataque iminente."
+    },
+
+    {
+        "id":5,
+        "nome":"Breeze",
+        "foto":{
+            "map":"../photo/maps/breeze.png",
+            "listview":"../photo/maps/breeze_listview.png",
+            "splash":"../photo/maps/breeze_splash.png"
+        },
+        "local":"Triângulo das Bermudas",
+        "historinha":"Conheça as ruínas históricas ou visite as grutas deste paraíso tropical. Mas é bom se cobrir, pois temos espaços muito abertos e embates de longa distância. Cuide dos seus flancos e você poderá curtir a brisa do Breeze."
+    },
+
+    {
+        "id":6,
+        "nome":"Icebox",
+        "foto":{
+            "map":"../photo/maps/icebox.png",
+            "listview":"../photo/maps/icebox_listview.png",
+            "splash":"../photo/maps/icebox_splash.png"
+        },
+        "local":"Russia",
+        "historinha":"Seu próximo campo de batalha será uma área de escavação secreta da Kingdom retomada pela força do Ártico. Você precisará ter cuidado com os terrenos horizontais dos dois pontos principais, que são protegidos por neve e metal. Aproveite para usar as tirolesas, e seus inimigos nunca verão seu ataque iminente."
+    },
+
+    {
+        "id":7,
+        "nome":"Bind",
+        "foto":{
+            "map":"../photo/maps/bind.png",
+            "listview":"../photo/maps/bind_listview.png",
+            "splash":"../photo/maps/bind_splash.png"
+        },
+        "local":"Marrocos",
+        "historinha":"Dois pontos. Nenhuma área no meio. Você precisa escolher: direita ou esquerda? E aí, qual vai ser? Ambos os lados oferecem caminhos diretos para os atacantes, e dois teleportadores de sentido único facilitam o flanqueamento."
+    },
+
+    {
+        "id":8,
+        "nome":"Haven",
+        "foto":{
+            "map":"../photo/maps/haven.png",
+            "listview":"../photo/maps/haven_listview.png",
+            "splash":"../photo/maps/haven_splash.png"
+        },
+        "local":"Butão",
+        "historinha":"Sob um mosteiro abandonado, é possível ouvir agentes se enfrentando pelo controle de três pontos distintos. Neste mapa, há mais áreas para controlar. Em compensação, os defensores também conseguem aproveitar o território extra para coordenar investidas mais agressivas."
+    },
+
+    {
+        "id":9,
+        "nome":"Split",
+        "foto":{
+            "map":"../photo/maps/split.png",
+            "listview":"../photo/maps/split_listview.png",
+            "splash":"../photo/maps/split_splash.png"
+        },
+        "local":"Japão",
+        "historinha":"Se quiser avançar, é preciso subir. Separados por uma área central elevada, dois pontos fornecem movimentação rápida com duas cordas ascendentes. Cada ponto tem uma torre imponente que é vital para o controle da área. E não se esqueça: mantenha os olhos abertos e focados nas áreas elevadas antes que tudo vá pelos ares."
+    },
+
+    {
+        "id":10,
+        "nome":"Ascent",
+        "foto":{
+            "map":"../photo/maps/ascent.png",
+            "listview":"../photo/maps/ascent_listview.png",
+            "splash":"../photo/maps/ascent_splash.png"
+        },
+        "local":"Italia",
+        "historinha":"Com várias opções de posicionamento e conflito, um território aberto divide duas áreas em Ascent. Cada uma pode ser fortificada por portas explosivas irreversíveis que, quando derrubadas, forçam as equipes a destruí-las ou a acharem outra maneira de prosseguir. Não deixe que o inimigo tome o seu território."
+    },
+
+    {
+        "id":11,
+        "nome":"Drift",
+        "foto":{
+            "map":"../photo/maps/drift.png",
+            "listview":"../photo/maps/drift_listview.png",
+            "splash":"../photo/maps/drift_splash.png"
+        },
+        "local":"Tailândia",
+        "historinha":"none."
+    },
+
+    {
+        "id":12,
+        "nome":"Kasbah",
+        "foto":{
+            "map":"../photo/maps/kasbah.png",
+            "listview":"../photo/maps/kasbah_listview.png",
+            "splash":"../photo/maps/kasbah_splash.png"
+        },
+        "local":"Marrocos",
+        "historinha":"none."
+    },
+
+    {
+        "id":12,
+        "nome":"Piazza",
+        "foto":{
+            "map":"../photo/maps/piazza.png",
+            "listview":"../photo/maps/piazza_listview.png",
+            "splash":"../photo/maps/piazza_splash.png"
+        },
+        "local":"Italia",
+        "historinha":"none."
+    },
+
+    {
+        "id":13,
+        "nome":"The range",
+        "foto":{
+            "map":"../photo/maps/range.png",
+            "listview":"../photo/maps/range_listview.png",
+            "splash":"../photo/maps/range_splash.png"
+        },
+        "local":"Italia",
+        "historinha":"none."
+    }
+
+]

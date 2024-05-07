@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "titulo":"VOCÊ É A DIFERENÇA // ESTREIA DO EPISÓDIO 8: ATO III - VALORANT",
+        "foto":"../photo/news/news_1.png",
+        "data":"30/04/24",
+        "breve_descricao":"Contrarie as expectativas e prove que, no EPISÓDIO 08 // ATO III, quem faz a diferença é VOCÊ.",
+        "link":"https://www.youtube.com/watch?v=QCYYIQpgYNM"
+    },
+
+    {
+        "id":2,
+        "titulo":"NOTAS DA ATUALIZAÇÃO 8.08 DO VALORANT",
+        "foto":"../photo/news/news_2.png",
+        "data":"30/04/24",
+        "breve_descricao":"Viper e Cypher rimam, né?",
+        "link":"https://playvalorant.com/pt-br/news/game-updates/notas-da-atualizacao-8-08-do-valorant/"
+    },
+    
+    {
+        "id":3,
+        "titulo":"TORNEIOS DE COMUNIDADE - 26/04 À 02/05",
+        "foto":"../photo/news/news_3.png",
+        "data":"25/04/24",
+        "breve_descricao":"Participe dos torneios criados pela própria comunidade.",
+        "link":"https://playvalorant.com/pt-br/news/community/torneios-de-comunidade-26-04-a-02-05/"
+    }
+]
+
+
